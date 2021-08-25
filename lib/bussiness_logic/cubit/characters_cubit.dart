@@ -27,3 +27,4 @@ class CharactersCubit extends Cubit<CharactersState> {
     });
   }
 }
+  // testing git branches
